@@ -1,0 +1,12 @@
+{
+    "name": "tiltPiTrends",
+    "description": "Adding Trends to TiltPi dashboard",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_tiltpi.json",
+            "credentialsFile": "flows_tiltpi_cred.json"
+        }
+    }
+}
